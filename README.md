@@ -1,4 +1,4 @@
-This is the link for showing how to navigate the site https://www.youtube.com/watch?v=dBS5jbG_2BU)
+This is the link for showing how to navigate the site https://www.youtube.com/watch?v=dBS5jbG_2BU), also look at how to make a booking and how to make a purchase
 
 This is the link for showing how to set up XAMPP and a database to get the code here to fully work with my database https://www.youtube.com/watch?v=Ak5i7wpk-IU
 
